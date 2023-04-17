@@ -934,7 +934,7 @@
     (property "Value" "BC547" (id 1) (at 89.9414 125.603 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_TO_SOT_THT:TO-92_Inline" (id 2) (at 90.17 126.365 0)
+    (property "Footprint" "Package_TO_SOT_THT:TO-92L_Wide" (id 2) (at 90.17 126.365 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
     (property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC550-D.pdf" (id 3) (at 85.09 124.46 0)
